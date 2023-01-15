@@ -80,7 +80,7 @@ input::placeholder{
 }
 
 button{
-    color: #f5f5f5;
+    color: #808080;
     border: none;
     outline: none;
     background:#00ff88;
@@ -118,7 +118,6 @@ button:hover{
     }
     .right-login{
         width: 90%;
-        
     }
     .card{
         width: 100%;
